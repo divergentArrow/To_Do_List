@@ -1,0 +1,8 @@
+Things to do to make better project:
+
+make each user have their own table in database and add/delete from that based on who's logged in
+make list clickable so adding and deleting is easier (can hover over List and click to delete item)
+make pages more dynamic and fluid
+make UI more friendly
+Make first page after login list of things to do then go from there
+maybe make all these buttons into menu item options with navigation bar on top or left side
